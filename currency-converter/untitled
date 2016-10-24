@@ -1,0 +1,10 @@
+  if ($option == "usdollar") {
+		    	$rupee = $option * 63.495763;
+  }
+
+
+
+
+  templating engine
+
+  
